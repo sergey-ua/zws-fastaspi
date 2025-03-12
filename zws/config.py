@@ -1,0 +1,4 @@
+package zws
+
+BLOCKED_HOSTNAMES_REDIS_KEY = 'blocked_hostnames'
+BLOCKED_HOSTNAMES_CACHE_DURATION = 3600
